@@ -21,7 +21,12 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>Software engineering </p>
 
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+My name is Yazan Moqanasa. I study at An-Najah National University, majoring in computer science, specializing in software engineering.
+I have worked on several projects, and there are some private projects that cannot be presented to the public. I specialize in web development using multiple tools, frameworks, and libraries on the front and back ends. I pay a lot of attention to detail to produce the best products.
+
+I trained in software testing and quality assurance at Ghadeer future Accelerators Company in Palestine
+
+I strive to constantly learn and develop myself on a daily basis
 
 💻 **Languages and Tools:** 🛠️<br>
 - Python
